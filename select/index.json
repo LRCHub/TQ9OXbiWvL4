@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Trip on a Spiderweb",
+  "base_artist": "Witchouse 40k",
+  "createdAt": "2026-03-26T15:21:29.686930Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Trip On A Spiderweb",
+      "artist": "witchouse 40k",
+      "has_synced": true,
+      "path": "select/01_Trip_On_A_Spiderweb_witchouse_40k.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Trip on a Spiderweb",
+      "artist": "Witchouse 40k",
+      "has_synced": true,
+      "path": "select/02_Trip_on_a_Spiderweb_Witchouse_40k.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Trip on a Spiderweb (Paused)",
+      "artist": "Witchouse 40k",
+      "has_synced": true,
+      "path": "select/03_Trip_on_a_Spiderweb_(Paused)_Witchouse_40k.lrc"
+    }
+  ]
+}
